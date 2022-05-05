@@ -1,4 +1,4 @@
-# 4team_weather_place
+# 4조참치
 
 
 ### :calendar: 프로젝트 기간
