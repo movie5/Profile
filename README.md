@@ -1,8 +1,6 @@
-<p align="center"> <a img width="80%" alt="Hello, I'm Younghwa. I do open source!" src="./templates/readme_header.png" /></a></p>
+![My project-1](https://github.com/movie5/movie5/assets/43196430/01ddde8b-c982-4eb7-ac66-1241edc17049)
 
-<br />
-
-I'm a self-taught passionate Engineer from Seoul 🇰🇷
+<p align="center"> I'm a self-taught passionate Engineer from Seoul 🇰🇷</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmovie5&count_bg=%237EC9FF&title_bg=%23FF8F8F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -30,3 +28,4 @@ I'm a self-taught passionate Engineer from Seoul 🇰🇷
 
 |![Younghwa's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=movie5&layout=compact)|![Younghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=movie5&show_icons=true&theme=buefy)|
 |----------------------|---------------------|
+
